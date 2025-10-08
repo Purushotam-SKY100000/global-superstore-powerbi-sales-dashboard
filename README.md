@@ -3,7 +3,7 @@
 1. 📊 Power BI Sales Analytics Dashboard
 
 📋 Overview
-A comprehensive Power BI dashboard for analyzing sales performance, product profitability, and regional distribution across multiple business segments. This interactive dashboard provides data-driven insights to optimize sales strategies and identify growth opportunities.
+A comprehensive Power BI dashboard for analyzing sales performance, product profitability, and regional distribution across multiple business segments. This interactive dashboard provides data-driven insights to optimize sales strategies and identify growth        opportunities.
 
 **Transform raw sales data into actionable business intelligence** with automated reporting, performance tracking, and strategic visualization of key metrics across your organization.
 
@@ -56,7 +56,7 @@ Usage: Ideal for creating sales dashboards, regional performance tracking, and p
 
 7. Screenshot or Demo
    🖼️ Dashboard Overview
-   ![Dashboard Overview]()
+   ![Dashboard Overview](https://github.com/Purushotam-SKY100000/global-superstore-powerbi-sales-dashboard/blob/main/Snapshot.%20Global-superstore-%20Png.png)
  
 
 
