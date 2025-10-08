@@ -25,9 +25,11 @@ A comprehensive Power BI dashboard for analyzing sales performance, product prof
 6. 🛡️ **Row-Level Security** - Data protection
 7. 📱 **Mobile Layout** - Responsive design
 8. 📁File Format- .pbix for developement, and png for dashboard previews
+   
 
-4. Data Source
-- Global Superstore 2016** from [Kaggle](https://www.kaggle.com/datasets/tahir1413/global-superstore-2016)
+.4. 🔗 Data Source-:
+      - Global Superstore 2016** from [Kaggle](https://www.kaggle.com/datasets/tahir1413/global-superstore-2016)
+
 Data Source: Global Superstore dataset (2012-2015) featuring sales transactions, regional performance, and product analytics. Includes customer segments, profit analysis, and delivery metrics across global markets.Description: Comprehensive business data with $12.64M sales, 178K+ quantities, and 1079 return orders, enabling multi-dimensional analysis of consumer, corporate, and home office segments.
 Usage: Ideal for creating sales dashboards, regional performance tracking, and product profitability insights in Power BI.
 
